@@ -2,6 +2,9 @@
 
 Segunda versão do projeto de calculadora, agora com interface gráfica usando Tkinter. Evolui a lógica da v1 (terminal) para uma calculadora funcional com visor, teclado numérico, operações básicas, suporte a números decimais e negativos, e tratamento de erros comuns de uso.
 
+## Interface
+![Interface da Calduladora](Interface.v2.png)
+
 ## Funcionalidades
 
 - Operações básicas: soma, subtração, multiplicação e divisão
